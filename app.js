@@ -38,3 +38,8 @@ app.use("/auth", authRoutes);
 require("./error-handling")(app);
 
 module.exports = app;
+
+// git pull
+// git add .
+// git commit -m 'descibe your commit'
+// git push
